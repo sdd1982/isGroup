@@ -1,0 +1,20 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "isGroup": {
+              "title": "Es grupo",
+              "description": "Indica si la parte u organización corresponde a una Unión Temporal o Consorcio",
+              "type": [
+                "boolean",
+                "null"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

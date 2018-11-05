@@ -1,0 +1,1 @@
+Indica si la parte u organización corresponde a una Unión Temporal o Consorcio
